@@ -15,19 +15,20 @@ This repository consits of example for interfacing _Rasberry pi pico board(RP204
 
 ![image](https://github.com/Thunderbolt2-o/bme680-rp2040/assets/68735588/57d1ef51-6c79-4916-9c3c-518cc5b3f96c)
 
-Driver files can be taken from Bosch [BME68x sensor API](https://github.com/boschsensortec/BME68x_SensorAPI)
-BME68x.c
-BME68x.h
-BME68x_defs.h 
+Driver files can be taken from Bosch [BME68x sensor API](https://github.com/boschsensortec/BME68x_SensorAPI) <br />
 
-[main.c](main.c)
-[CMakeLists.txt](CMakeLists.txt)
+BME68x.c <br />
+BME68x.h <br />
+BME68x_defs.h <br />
+
+[main.c](main.c) <br />
+[CMakeLists.txt](CMakeLists.txt) <br />
 
 ### References
 
-[RP2040 PINOUT](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-[RP2040 C SDK](https://www.raspberrypi.com/documentation/pico-sdk/hardware.html)
-[BME680 DATASHEET](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf)
+[RP2040 PINOUT](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) <br />
+[RP2040 C SDK](https://www.raspberrypi.com/documentation/pico-sdk/hardware.html) <br />
+[BME680 DATASHEET](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf) <br />
 
 
 
