@@ -1,8 +1,8 @@
-# ** BME680-RP2040 **
+# BME680-RP2040 
 
 This repository consits of example for interfacing _Rasberry pi pico board(RP2040)_ with _DFRobot BME680_ using _I2C_ interface. BME680 driver has been used to get all the functionality of the sensor. 
 
-### ** Pin connections **
+### Pin connections
 
 | PICO PIN | BME680 PIN |
 | ------------- | ------------- |
@@ -11,10 +11,23 @@ This repository consits of example for interfacing _Rasberry pi pico board(RP204
 | SDA   | 4    |
 | SDA   | 5    |
 
-### ** References **
+### Files to make this project work
 
-RP2040 PINOUT
-BME680 DATASHEET
+![image](https://github.com/Thunderbolt2-o/bme680-rp2040/assets/68735588/57d1ef51-6c79-4916-9c3c-518cc5b3f96c)
+
+Driver files can be taken from Bosch [BME68x sensor API](https://github.com/boschsensortec/BME68x_SensorAPI)
+BME68x.c
+BME68x.h
+BME68x_defs.h 
+
+[main.c](main.c)
+[CMakeLists.txt](CMakeLists.txt)
+
+### References
+
+[RP2040 PINOUT](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+[RP2040 C SDK](https://www.raspberrypi.com/documentation/pico-sdk/hardware.html)
+[BME680 DATASHEET](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf)
 
 
 
