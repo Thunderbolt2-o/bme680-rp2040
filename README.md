@@ -17,9 +17,9 @@ This repository consits of example for interfacing _Rasberry pi pico board(RP204
 
 Driver files can be taken from Bosch [BME68x sensor API](https://github.com/boschsensortec/BME68x_SensorAPI) <br />
 
-BME68x.c <br />
-BME68x.h <br />
-BME68x_defs.h <br />
+[BME68x.h](bme68x/bme68x.h) <br />
+[BME68x_defs.h](bme68x/bme68x_defs.h) <br />
+[BME68x.c](bme68x/bme68x.c) <br />
 [main.c](main.c) <br />
 [CMakeLists.txt](CMakeLists.txt) <br />
 
