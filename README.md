@@ -20,7 +20,6 @@ Driver files can be taken from Bosch [BME68x sensor API](https://github.com/bosc
 BME68x.c <br />
 BME68x.h <br />
 BME68x_defs.h <br />
-
 [main.c](main.c) <br />
 [CMakeLists.txt](CMakeLists.txt) <br />
 
@@ -30,5 +29,7 @@ BME68x_defs.h <br />
 [RP2040 C SDK](https://www.raspberrypi.com/documentation/pico-sdk/hardware.html) <br />
 [BME680 DATASHEET](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf) <br />
 
+### Output
 
-
+![pico with bme680](https://github.com/Thunderbolt2-o/bme680-rp2040/assets/68735588/e2c8144a-2145-43d1-b0d1-51200b51f4a6)
+![pico with bme680_output](https://github.com/Thunderbolt2-o/bme680-rp2040/assets/68735588/b688d001-8278-465f-95b2-bb851201eee0)
